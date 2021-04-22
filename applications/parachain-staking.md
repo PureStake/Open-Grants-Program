@@ -4,7 +4,7 @@
 
 * **Project:** Pallet-dPoS for Parachain Staking
 * **Proposer:** [Moonbeam Network](https://github.com/PureStake/moonbeam)
-* **Payment Address:** <TODO>
+* **Payment Address:** 1EMk3z9VMmXN6y3qwA37s6Qps4xRKGGE9G
 
 ## Project Overview :page_facing_up:
 
